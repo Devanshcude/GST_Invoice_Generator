@@ -64,7 +64,7 @@ npm run build
 ## Author
 
 **Chirag Sharma**  
-📧 chiragsharma@example.com
+📧 devanshkhanna.9f.2020@gmail.com
 
 ---
 
